@@ -1,0 +1,65 @@
+
+
+button {
+    border: 0;
+    padding: 16px 32px;
+    margin: 20px auto;
+    font-family: “微軟正黑體”, sans-serif;
+    font-size: 25px;
+    background:rgba(255, 255, 255, 0.39)
+
+}
+.header_img_txt{
+    position:"absolute";
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color:cornsilk;
+    font-size: 14px;
+}
+button {
+    border: 0;
+    padding: 16px 32px;
+    margin: 20px auto;
+    font-family: “微軟正黑體”, sans-serif;
+    font-size: 25px;
+    background:rgba(255, 255, 255, 0.39);
+    text-align: center;
+    left: 50%;
+    top: 50%;
+   
+}
+select
+{
+    border: 0;
+    padding: 16px 32px;
+    margin: 20px auto;
+    font-family: “微軟正黑體”, sans-serif;
+    font-size: 15px;
+    background:rgba(228, 222, 222, 0.849);
+  
+}
+textarea {
+    padding: 10px ;
+    line-height: 20px;
+    border-radius: 5px;
+    border: 5px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    
+
+}
+.login_i {
+    top:-10%;
+    left:10%;
+    transform: translate(120%,-200%);
+    position:center;
+    margin:center;
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+    color: #fff;
+    font-family: “微軟正黑體”, sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+    width: 40%
+}
+ 
